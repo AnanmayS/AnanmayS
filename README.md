@@ -7,9 +7,9 @@ into ai, financial systems, and automation that actually works.
 
 ### what i'm working on
 
-- **conviction** — ai-powered equity research platform
+- **showdown** — reinforcement learning trading agent
 - **polymarket paper trader** — prediction market simulation engine
-- **earnings surprise prediction** — ml platform for financial forecasting
+- **friday** — personal ai automation assistant
 
 ### tech i use
 
