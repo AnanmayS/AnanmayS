@@ -7,7 +7,7 @@ into ai, financial systems, and automation that actually works.
 
 ### what i'm working on
 
-- **showdown** — reinforcement learning trading agent
+- **showdown** — pokémon battle ai with reinforcement learning
 - **polymarket paper trader** — prediction market simulation engine
 - **friday** — personal ai automation assistant
 
