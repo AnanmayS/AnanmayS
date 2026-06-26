@@ -17,4 +17,4 @@ python · typescript · react · fastapi · docker · aws · postgres · supabas
 
 ### find me
 
-[linkedin](https://linkedin.com/in/ananmaysingh) · [website](https://ananmaysingh.dev)
+[linkedin](https://linkedin.com/in/ananmaysingh) · [portfolio](https://portfolio-1j8w.vercel.app/)
