@@ -13,4 +13,4 @@ I'm into ai, financial systems, and automation that actually works.
 
 ### find me
 
-[linkedin](https://linkedin.com/in/ananmaysingh) · [portfolio](https://portfolio-1j8w.vercel.app/)
+[linkedin](https://linkedin.com/in/ananmaysingh) · [portfolio](https://ananmays.github.io/portfolio/)
