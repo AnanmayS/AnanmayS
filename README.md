@@ -1,3 +1,5 @@
+<img src="intro.svg" alt="terminal intro: whoami → ananmay, computer engineering @ umd '28" width="720">
+
 ### hey, i'm ananmay 👋
  
 computer engineering @ umd '28

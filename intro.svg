@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="230" viewBox="0 0 720 230" role="img" aria-label="hey, i'm ananmay — computer engineering @ umd '28">
+<style>
+text{font:16px ui-monospace,SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;fill:#e6edf3;white-space:pre}
+.p{fill:#3fb950}
+.o{fill:#8b949e}
+.c{opacity:0;animation:show .01s linear forwards}
+.cur{fill:#e6edf3;animation:show .01s linear forwards,blink 1s step-end infinite}
+@keyframes show{to{opacity:1}}
+@keyframes blink{50%{opacity:0}}
+@media (prefers-reduced-motion:reduce){.c,.cur{animation:none;opacity:1}}
+</style>
+<rect width="720" height="230" rx="10" fill="#0d1117" stroke="#30363d"/>
+<circle cx="24" cy="22" r="6" fill="#ff5f57"/><circle cx="44" cy="22" r="6" fill="#febc2e"/><circle cx="64" cy="22" r="6" fill="#28c840"/>
+<text x="360.0" y="27" text-anchor="middle" style="font-size:13px;fill:#8b949e">ananmay@umd: ~</text>
+<text x="28" y="78" class="c" style="animation-delay:0.60s"><tspan class="p">~ $ </tspan><tspan class="c" style="animation-delay:0.60s">w</tspan><tspan class="c" style="animation-delay:0.67s">h</tspan><tspan class="c" style="animation-delay:0.74s">o</tspan><tspan class="c" style="animation-delay:0.81s">a</tspan><tspan class="c" style="animation-delay:0.88s">m</tspan><tspan class="c" style="animation-delay:0.95s">i</tspan></text>
+<text x="28" y="108" class="o c" style="animation-delay:1.52s">ananmay — computer engineering @ umd '28</text>
+<text x="28" y="144" class="c" style="animation-delay:2.12s"><tspan class="p">~ $ </tspan><tspan class="c" style="animation-delay:2.12s">c</tspan><tspan class="c" style="animation-delay:2.19s">a</tspan><tspan class="c" style="animation-delay:2.26s">t</tspan><tspan class="c" style="animation-delay:2.33s"> </tspan><tspan class="c" style="animation-delay:2.40s">i</tspan><tspan class="c" style="animation-delay:2.47s">n</tspan><tspan class="c" style="animation-delay:2.54s">t</tspan><tspan class="c" style="animation-delay:2.61s">e</tspan><tspan class="c" style="animation-delay:2.68s">r</tspan><tspan class="c" style="animation-delay:2.75s">e</tspan><tspan class="c" style="animation-delay:2.82s">s</tspan><tspan class="c" style="animation-delay:2.89s">t</tspan><tspan class="c" style="animation-delay:2.96s">s</tspan><tspan class="c" style="animation-delay:3.03s">.</tspan><tspan class="c" style="animation-delay:3.10s">t</tspan><tspan class="c" style="animation-delay:3.17s">x</tspan><tspan class="c" style="animation-delay:3.24s">t</tspan></text>
+<text x="28" y="174" class="o c" style="animation-delay:3.81s">backend systems · distributed systems · cloud · llm features</text>
+<text x="28" y="210" class="c" style="animation-delay:4.41s"><tspan class="p">~ $ </tspan><tspan class="cur" style="animation-delay:4.41s">▌</tspan></text>
+</svg>
